@@ -1,0 +1,14 @@
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.csproj.AssemblyReference.cache
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.AssemblyInfoInputs.cache
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.AssemblyInfo.cs
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.csproj.CoreCompileInputs.cache
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\bin\Debug\netcoreapp3.1\HerancaComposicao.exe
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\bin\Debug\netcoreapp3.1\HerancaComposicao.deps.json
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\bin\Debug\netcoreapp3.1\HerancaComposicao.runtimeconfig.json
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\bin\Debug\netcoreapp3.1\HerancaComposicao.runtimeconfig.dev.json
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\bin\Debug\netcoreapp3.1\HerancaComposicao.dll
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\bin\Debug\netcoreapp3.1\HerancaComposicao.pdb
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.dll
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.pdb
+C:\Users\015881631\Documents\WorkSpace - VS2019\YL\HerancaComposicao\HerancaComposicao\obj\Debug\netcoreapp3.1\HerancaComposicao.genruntimeconfig.cache
